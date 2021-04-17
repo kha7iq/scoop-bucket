@@ -9,14 +9,14 @@
             "hash": "4a7750442de2d4143ddd89a460b31b480ecab36b570b596f62c329bb367c584a"
         },
         "64bit": {
-            "url": "https://github.com/kha7iq/pingme/releases/download/v0.1.3/pingme_Windows_armv6.zip",
+            "url": "https://github.com/kha7iq/pingme/releases/download/v0.1.3/pingme_Windows_x86_64.zip",
             "bin": [
                 "pingme.exe"
             ],
-            "hash": "1df50030ccd511b5ce082dec94c11c5799f5c88e68eab9fe20c2a0733588299e"
+            "hash": "3d094372d99c875202ac88979d52a8cebbe078e01f2dd6d320fe56f4e6b730d6"
         }
     },
     "homepage": "https://pingme.lmno.pk",
     "license": "MIT",
-    "description": "Deliver Go binaries as fast and easily as possible"
+    "description": "PingMe is a CLI tool which provides the ability to send messages or alerts to multiple messaging platforms."
 }
