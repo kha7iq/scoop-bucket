@@ -1,0 +1,22 @@
+{
+    "version": "0.1.3",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/kha7iq/pingme/releases/download/v0.1.3/pingme_Windows_i386.zip",
+            "bin": [
+                "pingme.exe"
+            ],
+            "hash": "f600074b5998cf6b2e701b8cfec22c1465c5f731350ae1b0e30d70ffeb25c0aa"
+        },
+        "64bit": {
+            "url": "https://github.com/kha7iq/pingme/releases/download/v0.1.3/pingme_Windows_x86_64.zip",
+            "bin": [
+                "pingme.exe"
+            ],
+            "hash": "e17e88caae0c9af5d96c60741b3165ce231b44e0f7f3f668f32b52d603a9cf67"
+        }
+    },
+    "homepage": "https://pingme.lmno.pk",
+    "license": "MIT",
+    "description": "Deliver Go binaries as fast and easily as possible"
+}
