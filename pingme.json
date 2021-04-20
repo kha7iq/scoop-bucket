@@ -6,14 +6,14 @@
             "bin": [
                 "pingme.exe"
             ],
-            "hash": "937148e227267243e1a78db6e7a884e3969f8f95c755682d799b0c094871d960"
+            "hash": "d89e5ae26e83eb26d2129cdee862e7dc02bc2dc4eea0b1c71752d8f7a27eea0d"
         },
         "64bit": {
             "url": "http://github.mycompany.com/foo/bar/releases/v0.1.4/pingme_Windows_x86_64.zip",
             "bin": [
                 "pingme.exe"
             ],
-            "hash": "c4876f1bd152f44ef78e23327c5389b3881f7a5539902403b27bd5e7617d3440"
+            "hash": "eb78372690ce173f9bdfa7effeab2bc7cb39577161ae2cbfecfb26153e8b06b5"
         }
     },
     "homepage": "https://pingme.lmno.pk",
