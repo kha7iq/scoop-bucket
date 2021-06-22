@@ -1,19 +1,19 @@
 {
-    "version": "0.2.0",
+    "version": "0.2.1",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/kha7iq/pingme/releases/download/v0.2.0/pingme_Windows_i386.zip",
+            "url": "https://github.com/kha7iq/pingme/releases/download/v0.2.1/pingme_Windows_i386.zip",
             "bin": [
                 "pingme.exe"
             ],
-            "hash": "e5d8e00e8aac0336082a38f2021b969cc35264c5911fd72353ae687a8e6b06d5"
+            "hash": "3d69727bc18928c44f3e45a3d791a7fe6a97082869913ad5c84cfd5a44c4ce0a"
         },
         "64bit": {
-            "url": "https://github.com/kha7iq/pingme/releases/download/v0.2.0/pingme_Windows_x86_64.zip",
+            "url": "https://github.com/kha7iq/pingme/releases/download/v0.2.1/pingme_Windows_x86_64.zip",
             "bin": [
                 "pingme.exe"
             ],
-            "hash": "b478045d3dcb8805cf6e2cad9550de747b9ac17459b31e05ba13d1c7d4eff061"
+            "hash": "c3a31ac2d1c11988650083e34b1933cd60039ca29ef7a81432ed3aed7eb229b4"
         }
     },
     "homepage": "https://pingme.lmno.pk",
