@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/kha7iq/subvars/releases/download/v0.1.0/subvars_Windows_i386.zip",
+            "bin": [
+                "subvars.exe"
+            ],
+            "hash": "272cd09692bca7064b9edab0f9c8ec94fa3ae5d6f7afc57607f245f41e7972e7"
+        },
+        "64bit": {
+            "url": "https://github.com/kha7iq/subvars/releases/download/v0.1.0/subvars_Windows_x86_64.zip",
+            "bin": [
+                "subvars.exe"
+            ],
+            "hash": "7a781c35bdbd8aee7b3ec31d90ee1b050ca981b6250b5ed5c6488bb740d23840"
+        }
+    },
+    "homepage": "https://subvars.lmno.pk",
+    "license": "MIT",
+    "description": "Substitute environment variables from command line in config files defined as go template format."
+}
