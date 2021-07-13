@@ -1,19 +1,19 @@
 {
-    "version": "0.1.3",
+    "version": "0.1.4",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/kha7iq/subvars/releases/download/v0.1.3/subvars_Windows_i386.zip",
+            "url": "https://github.com/kha7iq/subvars/releases/download/v0.1.4/subvars_Windows_i386.zip",
             "bin": [
                 "subvars.exe"
             ],
-            "hash": "9b1371b4ac628f8a49e00fec3415f394d687de43d48461d538ae6f459490cbb6"
+            "hash": "176b03b5edda0e41cc269b5da8e35c26a902373efa4cd07f30d1d12d5828c4d7"
         },
         "64bit": {
-            "url": "https://github.com/kha7iq/subvars/releases/download/v0.1.3/subvars_Windows_x86_64.zip",
+            "url": "https://github.com/kha7iq/subvars/releases/download/v0.1.4/subvars_Windows_x86_64.zip",
             "bin": [
                 "subvars.exe"
             ],
-            "hash": "fc9566eaf3a18061734ac619f581946d81e56bc97244d95e1bc07b5d80e33d48"
+            "hash": "f12459498700f908638252b5027bbcf02a65bc089694231d49f8ee015adf918b"
         }
     },
     "homepage": "https://subvars.lmno.pk",
